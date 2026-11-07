@@ -1,6 +1,6 @@
 cask "datewell" do
-  version "1.6.34"
-  sha256 "fad0ac265f6a83a3074ca8efc11a61e36e16abd9f1f2f89dadae078e421a3a44"
+  version "1.6.39"
+  sha256 "7ae5268fde7b69c3d2c354ca09cb11b4c2c2f274d3a2658a4fd0903a770da9d6"
 
   url "https://pictureorg-keys.thepictureorg.workers.dev/release/datewell/ThePictureOrg-Datewell-Mac-#{version}.zip"
   name "Datewell"
